@@ -31,9 +31,6 @@ No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúra
 ### Instalación 🔧
 
 1. Clona el repositorio en tu máquina local:
-    ```bash
-    git clone https://github.com/Sodi0/challenge-amigo-secreto_esp-main.git
-    ```
 
 2. Navega al directorio del proyecto:
     ```bash
